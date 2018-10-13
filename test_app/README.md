@@ -1,24 +1,10 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The following commands were executed to setup a basic app in Ruby on Rails:
+Run ruby on rails command prompt
+- gem install bundler
+- gem install rails
+- rails -v
+- rails new test_app
+- cd test_app
+- bundle install
+- rails server
+Open a web browser and type localhost:3000 
